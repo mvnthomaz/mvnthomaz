@@ -4,16 +4,22 @@ My name is Marcos.
 
 I'm a mobile engineer, with expertise in development for native environments (Android and iOS) and Flutter Framework.<br>
 I’m currently working full-time [@cheesecakelabs](https://github.com/cheesecakelabs), where our purpose is help build successful tech product that solve real-world problems 🌎.
-<!-- 
-### Learning 🌱 
-- Playing with [Rust](https://www.rust-lang.org/) - goal is dive more into low(er) level and strengthen fundamentals
-- Exploring [FRP](https://en.wikipedia.org/wiki/Functional_reactive_programming#:~:text=Functional%20reactive%20programming%20(FRP)%20is,map%2C%20reduce%2C%20filter) and considering learning [Haskell](https://www.haskell.org/) to go deeper into the functional side of things
-- Playing and building projects with SwiftUI and Combine
 
-### Open source 🔓 🌎
-I love contributing to open-source, which I've been trying to do more over time.<br>
-Most part of my work and contributions are written in [Swift](https://swift.org/), which is a great programming language, backed by a great community of developers that I'm proud of being part.
-if you rely on any of my open source work, don't shy away from opening an issue, requesting a feature or helping me out as you can, all contributions are highlhy welcome. -->
+### Technologies & Tools 🛠️
+
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) 
+![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
+![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 #### Some contribution stats 📊
 <a href="#"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=mvnthomaz&count_private=true&show_icons=true" /></a>
@@ -21,6 +27,7 @@ if you rely on any of my open source work, don't shy away from opening an issue,
 
 ### How to contact me 📫 
 If you wish to chat, feel more than free to:
+- Find me on  [LinkedIn](https://www.linkedin.com/in/marcos-thomaz/)
 - Send me an [e-mail](mvnthomaz@gmail.com)
 
 
