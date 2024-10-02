@@ -21,10 +21,6 @@ I’m currently working full-time [@cheesecakelabs](https://github.com/cheesecak
 ![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-#### Some contribution stats 📊
-<a href="#"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=mvnthomaz&count_private=true&show_icons=true" /></a>
-<a href="#"><img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvnthomaz&layout=compact" /></a>
-
 ### How to contact me 📫 
 If you wish to chat, feel more than free to:
 - Find me on  [LinkedIn](https://www.linkedin.com/in/marcos-thomaz/)
