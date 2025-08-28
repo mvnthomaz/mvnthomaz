@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Marcos.
+My name is Marcos Thomaz.
 
 I'm a mobile engineer, with expertise in development for native environments (Android and iOS) and Flutter Framework.<br>
 I’m currently working full-time [@cheesecakelabs](https://github.com/cheesecakelabs), where our purpose is help build successful tech product that solve real-world problems 🌎.
