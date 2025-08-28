@@ -3,11 +3,9 @@
 My name is Marcos Thomaz.
 
 I'm a mobile engineer, with expertise in development for native environments (Android and iOS) and Flutter Framework.<br>
-I’m currently working full-time [@cheesecakelabs](https://github.com/cheesecakelabs), where our purpose is help build successful tech product that solve real-world problems 🌎.
+I’m currently working full-time [@grupo-sbf](https://github.com/grupo-sbf), where our purpose is help build successful tech product that solve real-world problems 🌎.
 
 ### Technologies & Tools 🛠️
-
-
 
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) 
@@ -27,19 +25,3 @@ I’m currently working full-time [@cheesecakelabs](https://github.com/cheesecak
 If you wish to chat, feel more than free to:
 - Find me on  [LinkedIn](https://www.linkedin.com/in/marcos-thomaz/)
 - Send me an [e-mail](mvnthomaz@gmail.com)
-
-
-<!-- 
-**mvnthomaz/mvnthomaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
